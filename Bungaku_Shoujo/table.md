@@ -47,10 +47,10 @@
 |Kimura Yuuichi|木村裕一|木村 裕一|Кимура Юичи|
 |Barbara Cartland|芭芭拉卡兰德|バーバラ・カートランド|Барбара Картланд|
 |Penny Jordan|佩妮乔丹|ペニー・ジョーダン|Пенни Джордан|
-|The Flame is Love|爱火燎原|-|Пламя - это любовь|
+|The Flame is Love|爱火燎原|愛は突然炎のように|Пламя - это любовь|
 |Silver|SILVER|SILVER|Серебро|
 |Geraldine|锷洁拉蒂|ジェラルディン|Джеральдин|
-|Carp|Карп|鲤鱼|Кой|
+|Carp|鲤鱼|鲤鱼|Кой|
 |Daisatsukai|恋爱大凶星|恋愛大殺界|Daisatsukai (Проклятие любви)|
 |ShinXXXX's Mother|新宿之母|新宿の母|Мать Шиндзюку|
 |IXXtan Department Store|伊势丹百货公司|伊勢丹デパート|Универмаг Исэтан|
